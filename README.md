@@ -1,0 +1,2 @@
+# bird_clock_simulator
+デジタル時計の文字を鳥のような物体で構成する
